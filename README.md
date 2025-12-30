@@ -32,7 +32,7 @@ To run this project from the terminal, follow these steps:
 ## D. Screenshots
 
 ### Program Output
-The screenshot below demonstrates the successful execution of the system. It shows the polymorphic processing of the vehicle fleet, including the legendary **Toyota Camry 70**, **KamAZ**, and the **Police Hyundai Elantra**.
+The screenshot below demonstrates the successful execution of the system. It shows the polymorphic processing of the vehicle fleet, including **Toyota Camry 70**, **KamAZ**, and the **Police Hyundai Elantra**.
 
 ![Program Output](docs/screenshots/output.png)
 
